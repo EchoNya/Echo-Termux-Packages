@@ -48,4 +48,6 @@ git - Clone github repos with
 ```git clone 'link'```
 
 # Support/Help 
-If you can't figure out or use the file correctly, dm me on discord (echonya) with info about the problem
+If you can't figure out or use the file correctly, dm me on discord (echonya) with info about the problem.
+
+If you like my work and want to support me, 🌟(ing) the repo is the only free way :3 (even via word on discord but thats to you)
